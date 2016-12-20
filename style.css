@@ -1,0 +1,39 @@
+h1 {
+  color:red;
+font-size: 60px;
+text-align: center;
+}
+
+button {background-color: white;
+  height: 50px;
+  width: 100px;
+  font-size: 15px;
+  display: block;
+  margin: auto;
+  padding-bottom: 30px;
+  margin-bottom: 10px;
+}
+img {
+  height: 400px;
+  width: 500px;
+  border-style: solid;
+  border-color: black;
+  border-width: 20px;
+  border-radius: 50px;
+  border-top-color: red;
+  border-bottom-color: red;
+  display: block;
+  margin: auto;
+  float: left;
+
+}
+
+ul {
+  float: right;
+  border-style: dashed;
+  border-color: black;
+  font-size: 50px;
+  padding: 60px;
+  padding-left: 80px;
+
+}
